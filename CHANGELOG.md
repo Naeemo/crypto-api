@@ -1,3 +1,5 @@
+* 0.8.6
+  - Add file extensions to imports to support node 12
 * 0.8.5
   - This version for deployment to npm
 * 0.8.4
