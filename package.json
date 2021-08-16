@@ -1,5 +1,5 @@
 {
-  "name": "cryptoapi",
+  "name": "crypto-api-v1",
   "description": "Hashing and encrypting library with no depedencies",
   "version": "1.0.0",
   "homepage": "https://github.com/nf404/crypto-api/",
